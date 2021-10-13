@@ -21,7 +21,7 @@ RESET
 }
 
 body {
-  overflow: hidden;
+  overflow-y: hidden !important;
   /* margin: 0; */
   /* padding: .1em .75em; */
   background-color: rgb(236, 230, 236);
