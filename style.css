@@ -67,8 +67,8 @@ NAV
 }
 
 .nav_my-story {
-  /* flex: 1;
-  width: 100%; */
+  flex: 1;
+  width: 100%;
 }
 
 .nav_toggle {
